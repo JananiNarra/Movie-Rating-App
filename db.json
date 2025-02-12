@@ -1,0 +1,274 @@
+{
+  "movies": [
+    {
+      "id": "5a26",
+      "title": "kgf",
+      "poster": "https://wallpapercave.com/wp/wp4019377.jpg",
+      "hero": "yash",
+      "heroine": "srinidi  shetty",
+      "director": "prasanth neel",
+      "summary": "the movie about gold dedicated to his mother",
+      "ratings": [
+        {
+          "userId": "user1",
+          "rating": 5
+        },
+        {
+          "userId": "user1",
+          "rating": 6
+        },
+        {
+          "userId": "user1",
+          "rating": 6
+        },
+        {
+          "userId": "user1",
+          "rating": 5
+        },
+        {
+          "userId": "user1",
+          "rating": 4
+        },
+        {
+          "userId": "user1",
+          "rating": 5
+        },
+        {
+          "userId": "user1",
+          "rating": 4
+        },
+        {
+          "userId": "user1",
+          "rating": 7
+        },
+        {
+          "userId": "user1",
+          "rating": 7
+        },
+        {
+          "userId": "user1",
+          "rating": 6
+        }
+      ],
+      "averageRating": 5.5,
+      "isWatchlisted": true,
+      "isWatched": true
+    },
+    {
+      "id": "cc25",
+      "title": "puspha 2 ",
+      "poster": "https://images.news18.com/ibnlive/uploads/2024/11/allu-arjun-pushpa-2-2024-11-13ea3f46cee5c583acd0825f201162d5.jpg?impolicy=website&width=360&height=270",
+      "hero": "allu arjun",
+      "heroine": "rashmika",
+      "director": "sukumar",
+      "summary": "the movie about red sandalwood",
+      "ratings": [
+        {
+          "userId": "user1",
+          "rating": 4
+        },
+        {
+          "userId": "user1",
+          "rating": 8
+        },
+        {
+          "userId": "user1",
+          "rating": 9
+        },
+        {
+          "userId": "user1",
+          "rating": 8
+        },
+        {
+          "userId": "user1",
+          "rating": 8
+        },
+        {
+          "userId": "user1",
+          "rating": 8
+        },
+        {
+          "userId": "user1",
+          "rating": 8
+        },
+        {
+          "userId": "user1",
+          "rating": 8
+        },
+        {
+          "userId": "user1",
+          "rating": 8
+        },
+        {
+          "userId": "user1",
+          "rating": 8
+        },
+        {
+          "userId": "user1",
+          "rating": 8
+        },
+        {
+          "userId": "user1",
+          "rating": 8
+        },
+        {
+          "userId": "user1",
+          "rating": 8
+        },
+        {
+          "userId": "user1",
+          "rating": 8
+        },
+        {
+          "userId": "user1",
+          "rating": 9
+        },
+        {
+          "userId": "user1",
+          "rating": 9
+        },
+        {
+          "userId": "user1",
+          "rating": 9
+        },
+        {
+          "userId": "user1",
+          "rating": 9
+        },
+        {
+          "userId": "user1",
+          "rating": 9
+        },
+        {
+          "userId": "user1",
+          "rating": 9
+        },
+        {
+          "userId": "user1",
+          "rating": 9
+        },
+        {
+          "userId": "user1",
+          "rating": 9
+        },
+        {
+          "userId": "user1",
+          "rating": 9
+        },
+        {
+          "userId": "user1",
+          "rating": 9
+        },
+        {
+          "userId": "user1",
+          "rating": 9
+        },
+        {
+          "userId": "user1",
+          "rating": 9
+        },
+        {
+          "userId": "user1",
+          "rating": 9
+        },
+        {
+          "userId": "user1",
+          "rating": 9
+        },
+        {
+          "userId": "user1",
+          "rating": 10
+        },
+        {
+          "userId": "user1",
+          "rating": 10
+        },
+        {
+          "userId": "user1",
+          "rating": 10
+        },
+        {
+          "userId": "user1",
+          "rating": 10
+        },
+        {
+          "userId": "user1",
+          "rating": 2
+        },
+        {
+          "userId": "user1",
+          "rating": 2
+        },
+        {
+          "userId": "user1",
+          "rating": 2
+        },
+        {
+          "userId": "user1",
+          "rating": 2
+        },
+        {
+          "userId": "user1",
+          "rating": 1
+        }
+      ],
+      "averageRating": 7.675675675675675,
+      "isWatchlisted": false,
+      "isWatched": true
+    },
+    {
+      "id": "25bb",
+      "title": "kalki",
+      "poster": "https://images.indianexpress.com/2024/01/kalki-02012024-2.jpg",
+      "hero": "prabhas",
+      "heroine": "deepika",
+      "director": "nagi",
+      "summary": "sci- vhh vh vhn",
+      "ratings": [
+        {
+          "userId": "user1",
+          "rating": 1
+        },
+        {
+          "userId": "user1",
+          "rating": 2
+        },
+        {
+          "userId": "user1",
+          "rating": 3
+        },
+        {
+          "userId": "user1",
+          "rating": 4
+        },
+        {
+          "userId": "user1",
+          "rating": 4
+        },
+        {
+          "userId": "user1",
+          "rating": 5
+        },
+        {
+          "userId": "user1",
+          "rating": 5
+        },
+        {
+          "userId": "user1",
+          "rating": 6
+        },
+        {
+          "userId": "user1",
+          "rating": 6
+        },
+        {
+          "userId": "user1",
+          "rating": 6
+        }
+      ],
+      "averageRating": 4.2,
+      "isWatchlisted": false,
+      "isWatched": false
+    }
+  ]
+}
